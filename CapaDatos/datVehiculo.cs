@@ -92,6 +92,11 @@ namespace CapaDatos
             return lista;
         }
 
+        public Boolean EditarVehiculo (entVehiculo v)
+        {
+
+        }
+
         #endregion metodos
     }
 }
